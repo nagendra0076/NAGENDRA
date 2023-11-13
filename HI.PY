@@ -1,1 +1,2 @@
-PRINT("HIIII")
+print(" hey hello python")
+print("hey")
